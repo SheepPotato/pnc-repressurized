@@ -15,7 +15,7 @@
     "taken": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "items": [
+        "items": {
           {
             "item": "pneumaticcraft:logistic_frame_passive_provider"
           },
